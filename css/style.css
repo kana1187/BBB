@@ -533,8 +533,6 @@ ul, li {
   display: block;
   font-size: 28px;
   font-weight: 500;
-  line-height: 0;
-  overflow-wrap: normal;
 }
 #summary .summary-list .summary-item .summaryItem-title .en {
   display: block;
