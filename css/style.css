@@ -542,6 +542,7 @@ ul, li {
 @media screen and (max-width: 900px) {
   #summary .summary-list .summary-item {
     width: 100%;
+    padding: 30px;
   }
 }
 
